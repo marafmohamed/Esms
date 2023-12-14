@@ -2,7 +2,7 @@ import React from "react";
 
 export default function HeroSection() {
   return (
-    <div id="Home" className="w-screen my-40 flex justify-center items-center px-10  h-96 ">
+    <div id="Home" className="w-screen text-black my-40 flex justify-center items-center px-10  h-96 ">
       <div className="w-1/2 flex flex-col items-center h-full justify-between pl-4">
         <div className=" w-[80%] flex flex-col items-center justify-around">
           <h1 className=" font-Pop text-6xl font-bold text-center tracking-normal leading-normal">

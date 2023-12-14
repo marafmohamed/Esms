@@ -8,7 +8,7 @@ import HeroSection from './Components/HeroSection';
 import Navbar from './Components/Navbar';
 function App() {
   return (
-    <div className="App flex flex-col overflow-x-hidden items-center ">
+    <div className="App flex flex-col overflow-x-hidden items-center bg-white ">
       <Navbar/>
       <HeroSection/>
       <Aboutus/>

@@ -15,8 +15,9 @@ export default function Brand() {
           workshops.
         </p>
       </div>
-    
-        <img className="w-[30%]" src="image 5.svg" alt="" />
+      <div className=" flex flex-col justify-center items-center h-full w-1/2">
+      <img className="w-[70%]" src="image 5.svg" alt="" />
+      </div>
     </div>
   );
 }

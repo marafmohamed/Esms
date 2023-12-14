@@ -20,10 +20,10 @@ export default function Footer() {
         />
       </div>
       <div className="flex justify-evenly items-center py-16 h-10 w-[35%]">
-        <img src="youtube.svg" alt="" />
-        <img src="Vector.svg" alt="" />
-        <img src="Vector (1).svg" alt="" />
-        <img src="Vector (2).svg" alt="" />
+        <img src="youtube.svg" alt="" className="cursor-pointer" />
+        <img src="Vector.svg" alt=""className="cursor-pointer" />
+        <img src="Vector (1).svg" alt=""className="cursor-pointer" />
+        <img src="Vector (2).svg" alt="" className="cursor-pointer"/>
       </div>
     </div>
   );
